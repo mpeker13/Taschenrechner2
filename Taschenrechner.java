@@ -19,7 +19,7 @@ public class Taschenrechner {
 
             /*Summieren*/
             ergebnis = zahl1 + zahl2;
-            System.out.println("Ergebnis Summe= " + ergebnis);
+            System.out.println("Ergebnis= " + ergebnis);
 
             /*Subtrahieren*/
             ergebnis = zahl1 - zahl2;
