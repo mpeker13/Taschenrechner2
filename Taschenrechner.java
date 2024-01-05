@@ -19,19 +19,19 @@ public class Taschenrechner {
 
             /*Summieren*/
             ergebnis = zahl1 + zahl2;
-            System.out.println("Ergebnis= " + ergebnis);
+            System.out.println("Ergebnis 1 = " + ergebnis);
 
             /*Subtrahieren*/
             ergebnis = zahl1 - zahl2;
-            System.out.println("Ergebnis= " + ergebnis);
+            System.out.println("Ergebnis 2 = " + ergebnis);
 
             /*Mal*/
             ergebnis = zahl1 * zahl2;
-            System.out.println("Ergebnis= " + ergebnis);
+            System.out.println("Ergebnis 3 = " + ergebnis);
 
             /*Dividieren*/
             ergebnis = zahl1 / zahl2;
-            System.out.println("Ergebnis= " + ergebnis);
+            System.out.println("Ergebnis 4 = " + ergebnis);
         }
 
     }
